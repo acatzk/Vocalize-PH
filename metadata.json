@@ -1,0 +1,6 @@
+{
+  "name": "Vocalize.ph - Tagalog TTS Hub",
+  "description": "A high-fidelity Tagalog (Filipino) Text-to-Speech developer platform and interactive audio sandbox featuring pricing comparisons, code generators, and natural neural voice previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
